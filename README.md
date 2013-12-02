@@ -1,4 +1,4 @@
-tiny_mce.jquery
+tinymce.jquery
 ===============
 
 包含jquery的tinymce，tinymce版本為3.5.8
